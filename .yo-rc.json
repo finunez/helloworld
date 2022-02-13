@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.um.helloworld"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "helloworld",
+    "packageName": "com.um.helloworld",
+    "packageFolder": "com/um/helloworld",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDMyYjlmMDVhNzYxZGM3YjQyMjRjNmNmZWI1MzkwZDIzNmM0YmU3MWQ5NzY0MTk1YTllNWQyZWIwYzU3MjVmYTBmZjBhMDgyZTQxMWEzOTM5MzRiMjEwMDRmNGJlN2RiMTQ2OGVmNjUzODdjZTNkN2Y4NTRiNzdkNzljMjE0NDQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1644793712252,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
